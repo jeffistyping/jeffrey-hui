@@ -1,1 +1,1 @@
-![Image of Pikachu](https://i.imgur.com/iNiaVUZ.gif)
+![Image of Pikachu](try.png)
